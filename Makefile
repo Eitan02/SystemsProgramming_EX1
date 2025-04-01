@@ -1,6 +1,6 @@
 # eitan.derdiger@gmail.com
 
-CXX = g++
+CXX = clang++
 CXXFLAGS = -std=c++11 -Wall -Wextra -I.
 
 OBJS = Graph.o Algorithms.o DataStructures.o
