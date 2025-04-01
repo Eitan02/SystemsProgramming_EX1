@@ -119,7 +119,6 @@ bool PriorityQueue::isEmpty() const
 
 // Constructor: Initialize each element as its own parent
 DisjointSet::DisjointSet(int n)
-    : size(n)
 {
     parent = new int[n];
     rank = new int[n];

@@ -26,7 +26,7 @@ It includes:
 ---
 ## How to Build
 
-1. Make sure you have g++, make, and valgrind installed.
+1. Make sure you have clang++, make, and valgrind installed.
 2. Run the following to build everything: `make Main`
 3. Then run: `./Main`
 This will execute the demonstration in `main.cpp` showing graph creation and algorithm usage.
@@ -46,7 +46,7 @@ This will execute the demonstration in `main.cpp` showing graph creation and alg
 
 
 ## Author
-- Eitan Derdiger - 328363700 - eitan.derdiger@gmail.com
+- Eitan Derdiger - 328363700 - `itan.derdiger@gmail.com
 
 ---
 

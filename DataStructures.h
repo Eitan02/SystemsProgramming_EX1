@@ -51,7 +51,6 @@ class DisjointSet {
 private:
     int* parent;    // Array for parent pointers
     int* rank;      // Array for rank (used to optimize union)
-    int size;       // Number of elements in the set
 
 public:
     DisjointSet(int n);         // Constructor
