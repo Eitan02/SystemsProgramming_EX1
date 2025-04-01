@@ -46,7 +46,7 @@ This will execute the demonstration in `main.cpp` showing graph creation and alg
 
 
 ## Author
-- Eitan Derdiger - 328363700 - `itan.derdiger@gmail.com
+- Eitan Derdiger - 328363700 - eitan.derdiger@gmail.com
 
 ---
 
