@@ -15,17 +15,17 @@ It includes:
 ## File Structure
 
 
-├── main.cpp              # Demonstration of graph and algorithms
+├── main.cpp                # Demonstration of graph and algorithms
 
-├── Graph.h / Graph.cpp   # Graph implementation
+├── Graph.h / Graph.cpp     # Graph implementation
 
-├── Algorithms.h/.cpp     # BFS, DFS, Dijkstra, Prim, Kruskal
+├── Algorithms.h/.cpp       # BFS, DFS, Dijkstra, Prim, Kruskal
 
-├── DataStructures.h/.cpp # Queue, PriorityQueue, DisjointSet
+├── DataStructures.h/.cpp   # Queue, PriorityQueue, DisjointSet
 
-├── tests.cpp             # Unit tests with doctest
+├── tests.cpp               # Unit tests with doctest
 
-├── Makefile              # Compilation, testing, valgrind
+├── Makefile                # Compilation, testing, valgrind
 
 
 ---
